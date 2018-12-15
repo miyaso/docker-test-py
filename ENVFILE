@@ -1,0 +1,2 @@
+OUTPUT_BUCKET_NAME=redshift.upload
+LOG_BUCKET_NAME=redshift.upload
